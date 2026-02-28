@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="262.43399"
+   height="304.09601"
+   viewBox="0 0 69.435658 80.458735"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="painter_icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.69753788"
+     inkscape:cx="272.38664"
+     inkscape:cy="503.91529"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path86"
+       style="fill:#ffffff;stroke-width:0.227955"
+       d="M 28.523404,0.00202961 A 9.0989819,20.279036 70.291816 0 0 16.267824,2.3951596 9.0989819,20.279036 70.291816 0 0 0.24502831,17.79991 9.0989819,20.279036 70.291816 0 0 5.5180913,21.49012 18.02445,18.02445 0 0 0 5.4695113,22.812 18.02445,18.02445 0 0 0 10.809754,35.61846 C 6.4325443,36.75364 3.2190033,40.71721 3.2190033,45.4592 v 24.83156 c 0,5.63288 4.534991,10.16785 10.1678607,10.16785 h 20.214779 c 5.63287,0 10.16734,-4.53497 10.16734,-10.16785 V 45.4592 c 0,-4.74199 -3.21354,-8.70556 -7.59075,-9.84074 A 18.02445,18.02445 0 0 0 41.518473,22.812 18.02445,18.02445 0 0 0 36.602493,10.44118 9.0989819,20.279036 70.291816 0 0 38.427193,4.1226996 9.0989819,20.279036 70.291816 0 0 28.523404,0.00202961 Z M 67.122083,21.92213 c -11.50928,6.97931 -9.41094,7.33687 -8.67492,10.989 l 5.89473,3.51916 c 7.20208,-3.66156 5.42864,-5.5899 2.78019,-14.50816 z m -9.9658,12.50208 -12.5827,21.56044 3.54656,2.39366 15.58974,-20.6034 z" />
+  </g>
+</svg>
